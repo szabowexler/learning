@@ -1,4 +1,4 @@
-Here are some tasks to help you get rolling.
+Here are some tasks to help you get rolling. This week we're focusing on getting the environment set up, learning a bit of git, a bit of Java, and a bit of algorithms theory.
 
 ### Theory
 1. Read the [Wiki page](https://en.wikipedia.org/wiki/Set_(mathematics)) on sets.
