@@ -15,17 +15,17 @@ Software engineering and computer science are best learned by application. This 
 
 ### Schedule
 
-| Week | Topic |
-|------| -------|
-| Week 1 | Why Software Engineering?|
-| Week 2| |
-| Week 3| |
-| Week 4| |
-| Week 5| |
-| Week 6| |
-| Week 7| |
-| Week 8| |
-| Week 9| |
-| Week 10| |
-| Week 11| |
-| Week 12| |
+| Week | Application Topic | Theory Topic |
+|------| -------| --------|
+| Week 1 | Intro to Java | Discrete Math, Probability, Algorithms |
+| Week 2| | |
+| Week 3| | |
+| Week 4| | |
+| Week 5| | |
+| Week 6| | |
+| Week 7| | |
+| Week 8| | |
+| Week 9| | |
+| Week 10| | |
+| Week 11| | |
+| Week 12| | |
