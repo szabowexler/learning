@@ -7,8 +7,6 @@ There are textbooks devoted to both algorithms, and various sub-fields of discre
 
 1. You need to know what sets are. They are collections of *things*.
 2. You need to understand what Big-O notation is. It's a way of comparing functions asymptotically.
-3. You need to understand some basic combinatorics - how to count, and make counting arguments.
-4. You need to understand some basic probability - how to reason about independent events.
 
 
 ### Algorithms
