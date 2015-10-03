@@ -17,7 +17,7 @@ Software engineering and computer science are best learned by application. This 
 
 | Week | Application Topic | Theory Topic |
 |------| -------| --------|
-| Week 1 | Intro to Java | Discrete Math, Probability, Algorithms |
+| Week 1 | Intro to Java | Algorithms, Discrete Math |
 | Week 2| | |
 | Week 3| | |
 | Week 4| | |
