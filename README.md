@@ -16,5 +16,5 @@ Software engineering and computer science are best learned by application. This 
 ### Schedule
 
 | Week | Topic |
-|--------------|
+|------| -------|
 | Week 1 | Why Software Engineering?|
