@@ -3,7 +3,8 @@ Here are some tasks to help you get rolling. This week we're focusing on getting
 ### Theory
 1. Read the [Wiki page](https://en.wikipedia.org/wiki/Set_(mathematics)) on sets.
 2. Read the [Wiki page](https://en.wikipedia.org/wiki/Big_O_notation) on Big-O notation.
-2. Go through the [Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms) lesson on algorithms. 
+3. Read the [Wiki page] (https://en.wikipedia.org/wiki/Hash_table) on hash tables.
+4. Go through the [Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms) lesson on algorithms. 
 
 ### Application
 
