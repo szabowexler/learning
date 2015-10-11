@@ -6,3 +6,4 @@ Here are some tasks to help you get rolling. This week we're focusing on getting
 ### Application
 
 1. Read the [Oracle trails](https://docs.oracle.com/javase/tutorial/java/index.html) on introductory Java programming.
+2. Read the [Oracle trails](https://docs.oracle.com/javase/tutorial/essential/index.html) on introductory Java programming.
